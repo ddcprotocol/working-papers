@@ -12,7 +12,7 @@ Published by DDCP Foundation, Inc. (Wyoming). © 2026 DDCP Foundation, Inc.
 
 ## OCC Engagement
 
-DDUSD LLC is in formation as the intended Permitted Payment Stablecoin Issuer (PPSI)
+DDUSD LLC is in formation as the intended federal qualified payment stablecoin issuer
 applicant under the GENIUS Act. A comment letter to the OCC's NPRM (OCC–2025–0372)
 is in preparation. Submission deadline: May 1, 2026.
 
