@@ -33,7 +33,7 @@ updated as of Apr-8-2026:
 | **FinCEN + OCC + FDIC + NCUA** | [Broad BSA AML/CFT program reform for all financial institutions](https://www.federalregister.gov/documents/2026/04/10/2026-07033/anti-money-laundering-and-countering-the-financing-of-terrorism-programs) | **Issued** Apr 10 | **Jun 9, 2026** | ⚠️ Indirect — sets baseline FI-layer compliance standard |
 | **Treasury** | [State "substantially similar" principles](https://www.federalregister.gov/documents/2026/04/03/2026-06489/genius-act-broad-based-principles-for-determining-whether-a-state-level-regulatory-regime-is) | **Issued** Apr 3 | **Jun 2, 2026** | ⚠️ Indirect — shapes state-level permissibility |
 | **Federal Reserve** | State member banks + anti-tying | **Not yet issued** | Expected before Jul 18, 2026 | ⚠️ Watch — anti-tying authorities referenced in Treasury NPRM |
-| **FDIC** | [Application procedures for FDIC-supervised PPSI subsidiaries](https://www.fdic.gov/news/financial-institution-letters/2026/notice-proposed-rulemaking-establish-genius-act#:~:text=Summary:,proposal%20also%20addresses%20tokenized%20deposits.) | **Issued** Dec 19, 2025 | May 18, 2026 — closed | ❌ Limited direct relevance |
+| **FDIC** | [Application procedures for FDIC-supervised PPSI subsidiaries](https://www.fdic.gov/news/financial-institution-letters/2026/notice-proposed-rulemaking-establish-genius-act#:~:text=Summary:,proposal%20also%20addresses%20tokenized%20deposits.) | **Issued** Dec 19, 2025 | **May 18, 2026**  | ❌ Limited direct relevance |
 | **NCUA** | [Credit union PPSI subsidiaries](https://ncua.gov/news/events/2026/comments-genius-act-proposal-due-april-13) | **Issued** Feb 12 | Apr 13, 2026 | ❌ Credit union sector — no direct relevance |
 
 ## License
