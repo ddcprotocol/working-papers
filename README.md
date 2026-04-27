@@ -7,7 +7,7 @@ Published by DDCP Foundation, Inc. (Wyoming). © 2026 DDCP Foundation, Inc.
 
 | Document | Version | Date |
 |---|---|---|
-| [OCC GENIUS Act NPRM Comment Letter (draft)](https://github.com/ddcprotocol/working-papers/blob/main/DDCP_OCC_Comment_Letter_v20260427-2.pdf) <br>(significant change of approach versus previus versions)| v20260427-2 | April 27, 2026 |
+| [OCC GENIUS Act NPRM Comment Letter (draft)](https://github.com/ddcprotocol/working-papers/blob/main/DDCP_OCC_Comment_Letter_v20260427-3.pdf) <br>(minior refinements versus v20260427-2)| v20260427-3 | April 27, 2026 |
 | [DDCP Manifesto - The Better Money](https://github.com/ddcprotocol/working-papers/blob/main/DDCP_Manifesto_v20260416-5.pdf) | v20260416-5 | April 16, 2026 |
 
 ## OCC Engagement
