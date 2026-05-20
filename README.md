@@ -10,7 +10,7 @@ Published by DDCP Foundation, Inc. (Wyoming). © 2026 DDCP Foundation, Inc.
 | [DDCP Manifesto - The Better Money](https://github.com/ddcprotocol/working-papers/blob/main/DDCP_Manifesto_v20260416-5.pdf) | v20260416-5 | April 16, 2026 |
 | [DDCP Architecture - Technical Overview](https://github.com/ddcprotocol/working-papers/blob/main/DDCP_Architecture_Technical_Overview_v20260501-2.pdf) | v20260501-2 | May 1, 2026 |
 | [OCC GENIUS Act NPRM Comment Letter<br>](https://github.com/ddcprotocol/working-papers/blob/main/DDCP_Foundation_OCC-2025-0372_Comment_FILED.pdf) (Docket OCC–2025–0372 / RIN 1557–AF41) <br>[Public record on Regulations.gov](https://www.regulations.gov/comment/OCC-2025-0372-0257)  | FILED | May 1, 2026 |
-| [FinCEN/OFAC GENIUS Act NPRM Comment Letter<br>](https://github.com/ddcprotocol/working-papers/blob/main/DDCP_FINCEN-OFAC_Comment_Letter_v20260516-1.pdf) (Docket FINCEN–2026–0100 / RIN 1506–AB73) - Draft -  | v20260516-1 | May 16, 2026 |
+| [FinCEN/OFAC GENIUS Act NPRM Comment Letter<br>](https://github.com/ddcprotocol/working-papers/blob/main/DDCP_FINCEN-OFAC_Comment_Letter_v20260516-3.pdf) (Docket FINCEN–2026–0100 / RIN 1506–AB73) - Draft -  | v20260516-3 | May 16, 2026 |
 
 
 ## OCC Engagement
