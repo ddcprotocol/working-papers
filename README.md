@@ -10,14 +10,13 @@ Published by DDCP Foundation, Inc. (Wyoming). © 2026 DDCP Foundation, Inc.
 | [DDCP Manifesto - The Better Money](https://github.com/ddcprotocol/working-papers/blob/main/DDCP_Manifesto_v20260416-5.pdf) | v20260416-5 | April 16, 2026 |
 | [DDCP Architecture - Technical Overview](https://github.com/ddcprotocol/working-papers/blob/main/DDCP_Architecture_Technical_Overview_v20260501-2.pdf) | v20260501-2 | May 1, 2026 |
 | [OCC GENIUS Act NPRM Comment Letter<br>](https://github.com/ddcprotocol/working-papers/blob/main/DDCP_Foundation_OCC-2025-0372_Comment_FILED.pdf) (Docket OCC–2025–0372 / RIN 1557–AF41) <br>[Public record on Regulations.gov](https://www.regulations.gov/comment/OCC-2025-0372-0257)  | FILED | May 1, 2026 |
-| [FinCEN/OFAC GENIUS Act NPRM Comment Letter<br>](https://github.com/ddcprotocol/working-papers/blob/main/DDCP_FINCEN-OFAC_Comment_Letter_v20260516-3.pdf) (Docket FINCEN–2026–0100 / RIN 1506–AB73) - Draft -  | v20260516-3 | May 16, 2026 |
-
+| [OCC GENIUS Act NPRM Supplementary Comment<br>](https://github.com/ddcprotocol/working-papers/blob/main/DDCP_Foundation_OCC-2025-0372_Supplementary_Comment_FILED.pdf) (Docket OCC–2025–0372 / RIN 1557–AF41) | SUBMITTED | May 20, 2026 |
+|[FinCEN/OFAC GENIUS Act NPRM Comment Letter<br>](https://github.com/ddcprotocol/working-papers/blob/main/DDCP_FINCEN-OFAC_Comment_Letter_v20260516-3.pdf) (Docket FINCEN–2026–0100 / RIN 1506–AB73) - Draft -  | v20260516-3 | May 16, 2026 |
 
 ## OCC Engagement
 
 DDUSD LLC is in formation as the intended federal qualified payment stablecoin issuer
-applicant under the GENIUS Act. A comment letter to the OCC's NPRM (OCC–2025–0372)
-is in preparation. Submission deadline: May 1, 2026.
+applicant under the GENIUS Act. A comment letter to the OCC's NPRM (OCC–2025–0372) has been filed, and a supplementary comment letter submitted for revision.
 
 ## GENIUS Act Rulemaking Tracker
 
