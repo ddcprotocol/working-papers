@@ -12,6 +12,7 @@ Published by DDCP Foundation, Inc. (Wyoming). © 2026 DDCP Foundation, Inc.
 | [DDCP Reserve Management - Design Specification](https://github.com/ddcprotocol/working-papers/blob/main/DDCP_Reserve_Management_Design_Specification_v20260525-2.pdf) | v20260525-2 | May 25, 2026 |
 
 
+
 ## GENIUS Act Rulemaking Tracker
 
 The GENIUS Act is being implemented through a coordinated series of rulemakings 
