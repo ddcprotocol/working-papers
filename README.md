@@ -29,6 +29,7 @@ constitutional and architectural arguments. Here is the complete tracker:
 |**OCC<br>(Reporting)**| n/a |OMB No.1557-NEW|6/12/2026<br>8/11/2026|[Reporting Forms and<br> Instructions for PPSIs](https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-24.html)|[Comment](https://github.com/ddcprotocol/working-papers/blob/main/DDCP_Foundation_OCC_OMB-1557-NEW_Comment.pdf)| Pending |
 |**FinCEN<br>OCC<br>FDIC<br>BOARD<br>NCUA**|1506-AB74 1557-AF53 3064-AG28 7100-AH18 3133-AG09|FINCEN-2026-0101<br>OCC-2026-0331 -- R-1885 NCUA-2026-0793| 6/22/2026<br>8/21/2026 |[CIP for PPSIs - Customer/Account<br> definitions](https://public-inspection.federalregister.gov/2026-12460.pdf)|Pending| — |
 |**FDIC<br>(Reporting)**| n/a |OMB No.3064–0225|7/20/2026<br>9/18/2026|[Reporting Forms and<br> Instructions for PPSIs](https://www.fdic.gov/news/financial-institution-letters/2026/genius-act-proposed-reporting-forms-and-instructions-fdic)|Pending| — |
+|**Treasury**| n/a |1505–AC95|TREAS–DO–2026–0496|8/18/2026<br>10/19/2026|[GENIUS Act Regulations on Payment Stablecoin Issuance, Offer, and Sale](https://www.federalregister.gov/documents/2026/08/18/2026-16796/genius-act-regulations-on-payment-stablecoin-issuance-offer-and-sale)|Pending| — |
 
 ## License
 
