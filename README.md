@@ -8,7 +8,6 @@ Published by DDCP Foundation, Inc. (Wyoming). © 2026 DDCP Foundation, Inc.
 | Document | Version | Date |
 |---|---|---|
 | [DDCP Manifesto - The Better Money](https://github.com/ddcprotocol/working-papers/blob/main/DDCP_Manifesto_v20260924-1.pdf) | v20260924-1 | September 24, 2026 |
-| [DDCP Architecture - Technical Overview](https://github.com/ddcprotocol/working-papers/blob/main/DDCP_Architecture_Technical_Overview_v20260615-2.pdf) | v20260615-2 | June 15, 2026 |
 
 
 
